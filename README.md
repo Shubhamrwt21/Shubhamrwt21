@@ -1,4 +1,4 @@
-# 📡 [SHUBHAM SINGH RAWAT // ASPIRING CYBER SECURITY & VAPT ANALYST]
+# 👋 Hi, I'm Shubham Singh Rawat | Aspiring Cyber Security & SOC Analyst
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-green?style=flat-square&logo=github" alt="Status">
@@ -9,7 +9,7 @@
 
 ---
 
-## 💻 $ whoami
+## 🚀 About Me
 > Highly motivated **Entry-Level Cyber Security Student & Enthusiast** with a solid foundation in both defensive (SOC) and offensive (VAPT) security domains. Built core industry skills through a **1-Year Diploma in Cybersecurity** and globally recognized **CompTIA Security+** certification.
 
 * 🛡️ **Defensive Mindset:** Bridging the gap between theory and practical application by understanding SOC workflows and log analysis.
@@ -18,7 +18,7 @@
 
 ---
 
-## 📑 $ cat credentials.txt
+## 📜 Certifications & Achievements
 * 🏅 **CompTIA Security+ CE** (Certified)
 * 🎓 **1-Year Diploma in Cyber Security**
 * 📈 **TryHackMe Global Top 2%** (100+ Rooms Cleared)
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ $ ./show_skills.sh
+## 🛠️ Technical Skills & Tools
 
 ### 🔵 Blue Teaming & SOC Operations
 * `SIEM & Monitoring` ➔ **Wazuh, Splunk (Free Tier)**
@@ -36,7 +36,9 @@
 
 ### 🔴 Offensive Security & VAPT
 * `Web Security` ➔ **OWASP Top 10 Framework**
-* `Vulnerability Scanning` ➔ **Nmap Scripting Engine (NSE), Basic Testing Methodologies**
+* `Web Proxy & Interception` ➔ **Burp Suite, OWASP ZAP**
+* `Vulnerability Scanning` ➔ **Nmap Scripting Engine (NSE), Nessus, OpenVAS, Nikto, Basic Testing Methodologies**
+* `Directory & Directory Busting` ➔ **Gobuster, Feroxbuster, ffuf, Subfinder**
 * `Threat Simulation` ➔ **Kali Linux, Hydra, Metasploit**
 
 ### ⚙️ Infrastructure & Environments
@@ -45,7 +47,7 @@
 
 ---
 
-## 🤝 $ ping -c 4 shubham
+## 🤝 Connect With Me
 * **LinkedIn:** [shubham-singh-rawat-1b1054264](https://www.linkedin.com/in/shubham-singh-rawat-1b1054264)
 * **Email:** [rawat0057@gmail.com](mailto:rawat0057@gmail.com)
 * **GitHub:** [github.com/Shubhamrwt21](https://github.com/Shubhamrwt21)
