@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shubham Singh Rawat | Aspiring Cyber Security & SOC Analyst
+# 📡 [SHUBHAM SINGH RAWAT // ASPIRING CYBER SECURITY & VAPT ANALYST]
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-green?style=flat-square&logo=github" alt="Status">
@@ -9,44 +9,43 @@
 
 ---
 
-## 🚀 About Me
-Passionate and highly motivated **Entry-Level Cyber Security Enthusiast** with a solid theoretical and practical foundation built through a **1-Year Diploma in Cybersecurity** and the globally recognized **CompTIA Security+** certification. 
+## 💻 $ whoami
+> Highly motivated **Entry-Level Cyber Security Student & Enthusiast** with a solid foundation in both defensive (SOC) and offensive (VAPT) security domains. Built core industry skills through a **1-Year Diploma in Cybersecurity** and globally recognized **CompTIA Security+** certification.
 
-I am focused on bridging the gap between classroom learning and real-world security operations by focusing on a hybrid approach—understanding defensive security (SOC operations) alongside offensive security fundamentals (**VAPT & Ethical Hacking**).
-
-Driven by a strong interest in hands-on problem solving, I actively tackle challenges on TryHackMe, where I currently rank in the **Top 2% Globally** with **100+ labs solved**. I am eager to bring my dedication, foundational skills, and fast-learning attitude to a professional team as a Junior Analyst.
-
-* 🏅 **Certifications:** CompTIA Security+ 
-* 🎯 **Milestone:** Top 2% Globally on TryHackMe (100+ Labs Solved)
-* 🔍 **Core Focus:** Threat Detection, SIEM (Wazuh/Splunk), Vulnerability Assessment, OWASP Top 10, Log Analysis
-* 🌍 **Objective:** Seeking an entry-level opportunity as a **Junior SOC Analyst / Security Analyst / VAPT Associate** to learn, contribute, and grow within an enterprise environment.
+* 🛡️ **Defensive Mindset:** Bridging the gap between theory and practical application by understanding SOC workflows and log analysis.
+* ⚔️ **Offensive Frameworks:** Exploring web application vulnerabilities via the **OWASP Top 10** and understanding attacker methodologies.
+* 🕹️ **Continuous Learning:** Driven by a strong interest in hands-on problem solving, ranking in the **Top 2% Globally on TryHackMe** with **100+ labs** successfully completed.
 
 ---
 
-## 📜 Certifications & Achievements
-* 🛡️ **CompTIA Security+** (Certified)
-* 📈 **TryHackMe Global Top 2%** — Solved 100+ Offensive & Defensive rooms
+## 📑 $ cat credentials.txt
+* 🏅 **CompTIA Security+ CE** (Certified)
 * 🎓 **1-Year Diploma in Cyber Security**
-* ⚡ **Ethical Hacking & VAPT Fundamentals** — Strong baseline understanding of core security principles, attack vectors, and web application vulnerabilities.
+* 📈 **TryHackMe Global Top 2%** (100+ Rooms Cleared)
+* ⚡ **Core Baseline:** Ethical Hacking, VAPT Fundamentals, Network Security.
 
 ---
 
-## 🛠️ Technical Skills & Tools
+## 🛠️ $ ./show_skills.sh
 
-| Category | Technologies / Tools / Frameworks |
-| :--- | :--- |
-| **SIEM & Monitoring** | Wazuh, Splunk (Free Tier) |
-| **Log Analysis** | Windows Event Viewer, Sysmon, Wazuh Alerts |
-| **Network Analysis** | Wireshark, Nmap, Netdiscover |
-| **Offensive & VAPT** | OWASP Top 10, Hydra, Metasploit, Penetration Testing Methodologies |
-| **Threat Simulation** | Kali Linux (Attacking Machine Frameworks) |
-| **Frameworks** | MITRE ATT&CK (Foundational Awareness) |
-| **Operating Systems** | Windows 10/11, Kali Linux |
-| **Virtualization** | VirtualBox (Lab Environment Environment Setup) |
+### 🔵 Blue Teaming & SOC Operations
+* `SIEM & Monitoring` ➔ **Wazuh, Splunk (Free Tier)**
+* `Log Analysis` ➔ **Windows Event Viewer, Sysmon, Wazuh Alerts**
+* `Network Analysis` ➔ **Wireshark, Nmap, Netdiscover**
+* `Frameworks` ➔ **MITRE ATT&CK (Foundational Awareness)**
+
+### 🔴 Offensive Security & VAPT
+* `Web Security` ➔ **OWASP Top 10 Framework**
+* `Vulnerability Scanning` ➔ **Nmap Scripting Engine (NSE), Basic Testing Methodologies**
+* `Threat Simulation` ➔ **Kali Linux, Hydra, Metasploit**
+
+### ⚙️ Infrastructure & Environments
+* `Operating Systems` ➔ **Windows 10/11, Kali Linux**
+* `Virtualization` ➔ **VirtualBox (Lab Environment Setup)**
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 $ ping -c 4 shubham
 * **LinkedIn:** [shubham-singh-rawat-1b1054264](https://www.linkedin.com/in/shubham-singh-rawat-1b1054264)
 * **Email:** [rawat0057@gmail.com](mailto:rawat0057@gmail.com)
 * **GitHub:** [github.com/Shubhamrwt21](https://github.com/Shubhamrwt21)
