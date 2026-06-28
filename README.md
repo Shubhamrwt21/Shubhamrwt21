@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shubham | Aspiring Cyber Security & VAPT Analyst
+# 👋 Hi, I'm Shubham Singh Rawat | Aspiring Cyber Security & SOC Analyst
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-green?style=flat-square&logo=github" alt="Status">
@@ -16,9 +16,9 @@ I am focused on bridging the gap between classroom learning and real-world secur
 
 Driven by a strong interest in hands-on problem solving, I actively tackle challenges on TryHackMe, where I currently rank in the **Top 2% Globally** with **100+ labs solved**. I am eager to bring my dedication, foundational skills, and fast-learning attitude to a professional team as a Junior Analyst.
 
-* 🏅 **Certifications:** CompTIA Security+ CE
+* 🏅 **Certifications:** CompTIA Security+ 
 * 🎯 **Milestone:** Top 2% Globally on TryHackMe (100+ Labs Solved)
-* 🔍 **Core Focus:** Threat Detection, SIEM (Wazuh) Concepts, Vulnerability Assessment, OWASP Top 10, Log Analysis
+* 🔍 **Core Focus:** Threat Detection, SIEM (Wazuh/Splunk), Vulnerability Assessment, OWASP Top 10, Log Analysis
 * 🌍 **Objective:** Seeking an entry-level opportunity as a **Junior SOC Analyst / Security Analyst / VAPT Associate** to learn, contribute, and grow within an enterprise environment.
 
 ---
@@ -35,11 +35,14 @@ Driven by a strong interest in hands-on problem solving, I actively tackle chall
 
 | Category | Technologies / Tools / Frameworks |
 | :--- | :--- |
-| **Offensive Security & VAPT** | <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white"> <img src="https://img.shields.io/badge/Penetration%20Testing-Methodologies-red?style=flat-square"> <img src="https://img.shields.io/badge/Ethical%20Hacking-Concepts-darkgreen?style=flat-square"> |
-| **Defensive SOC & SIEM** | <img src="https://img.shields.io/badge/Wazuh-000000?style=flat-square&logo=wazuh&logoColor=white"> <img src="https://img.shields.io/badge/SIEM-Log%20Analysis-blueviolet?style=flat-square"> <img src="https://img.shields.io/badge/Incident%20Response-Basics-orange?style=flat-square"> |
-| **Operating Systems** | <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"> |
-| **Virtualization** | <img src="https://img.shields.io/badge/VirtualBox-214375?style=flat-square&logo=virtualbox&logoColor=white"> |
-| **Platforms & Utilities** | <img src="https://img.shields.io/badge/TryHackMe-990000?style=flat-square&logo=tryhackme&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&white"> |
+| **SIEM & Monitoring** | Wazuh, Splunk (Free Tier) |
+| **Log Analysis** | Windows Event Viewer, Sysmon, Wazuh Alerts |
+| **Network Analysis** | Wireshark, Nmap, Netdiscover |
+| **Offensive & VAPT** | OWASP Top 10, Hydra, Metasploit, Penetration Testing Methodologies |
+| **Threat Simulation** | Kali Linux (Attacking Machine Frameworks) |
+| **Frameworks** | MITRE ATT&CK (Foundational Awareness) |
+| **Operating Systems** | Windows 10/11, Kali Linux |
+| **Virtualization** | VirtualBox (Lab Environment Environment Setup) |
 
 ---
 
