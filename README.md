@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shubham Singh Rawat | Cyber Security & VAPT Analyst
+# 👋 Hi, I'm Shubham | Cyber Security & VAPT Analyst
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-green?style=flat-square&logo=github" alt="Status">
@@ -14,7 +14,7 @@ Result-driven Cyber Security professional with a solid foundation built through 
 
 Deeply passionate about hands-on vulnerability analysis using the **OWASP Top 10 Framework** and ethical hacking concepts. Highly active on platforms like TryHackMe, ranking in the **Top 2% Globally** by successfully solving over **100+ Offensive and Defensive labs**. 
 
-* 🏅 **Certifications:** CompTIA Security+ 
+* 🏅 **Certifications:** CompTIA Security+ CE
 * 🎯 **Milestone:** Top 2% Globally on TryHackMe (100+ Labs Solved)
 * 🔍 **Core Focus:** Vulnerability Assessment & Penetration Testing (VAPT), Threat Detection, SIEM (Wazuh), Log Analysis
 * 🌍 **Objective:** Seeking opportunities as a **Junior SOC Analyst / Security Analyst / VAPT Associate** to proactively defend enterprise infrastructure.
@@ -37,20 +37,11 @@ Deeply passionate about hands-on vulnerability analysis using the **OWASP Top 10
 | **Defensive SOC & SIEM** | <img src="https://img.shields.io/badge/Wazuh-000000?style=flat-square&logo=wazuh&logoColor=white"> <img src="https://img.shields.io/badge/SIEM-Log%20Analysis-blueviolet?style=flat-square"> <img src="https://img.shields.io/badge/Incident%20Response-Log%20Analysis-orange?style=flat-square"> |
 | **Operating Systems** | <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"> |
 | **Virtualization** | <img src="https://img.shields.io/badge/VirtualBox-214375?style=flat-square&logo=virtualbox&logoColor=white"> |
-| **Platforms & Utilities** | <img src="https://img.shields.io/badge/TryHackMe-990000?style=flat-square&logo=tryhackme&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> |
-
----
-
-## 📊 My GitHub Insights
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamrwt21&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Shubham's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamrwt21&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+| **Platforms & Utilities** | <img src="https://img.shields.io/badge/TryHackMe-990000?style=flat-square&logo=tryhackme&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&white"> |
 
 ---
 
 ## 🤝 Connect With Me
+* **LinkedIn:** [shubham-singh-rawat-1b1054264](https://www.linkedin.com/in/shubham-singh-rawat-1b1054264)
+* **Email:** [rawat0057@gmail.com](mailto:rawat0057@gmail.com)
 * **GitHub:** [github.com/Shubhamrwt21](https://github.com/Shubhamrwt21)
-* **Email:** *[Apna Email Yahan Likhein]*
-* **LinkedIn:** *[Apna LinkedIn URL Yahan Likhein]*
